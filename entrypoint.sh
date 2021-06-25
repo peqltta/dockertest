@@ -1,5 +1,2 @@
 #!/bin/sh -l
-
-echo "Hello $1"
-time=$(date)
-echo "::set-output name=time::$time"
+echo "Startup.sh script thing goes here"
