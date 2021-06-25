@@ -8,4 +8,4 @@ jobs:
       - name: WHERE AM I!?!??!
         run: pwd
       - name: Ping Google
-        run: ping google.com
+        run: nslookup www.google.com
